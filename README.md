@@ -71,7 +71,7 @@ hw2/
 ```
 
 ## 未上传文件说明
-以下文件因体积过大未上传至GitHub，已上传至：
+以下文件因体积过大未上传至GitHub，各模型已上传至：https://drive.google.com/drive/folders/1L4abv-IdNAn4ldqruwdPQzMai51aKVxH?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
 1. **预训练模型权重**：
    - YOLO26n预训练权重：`task2/yolo26n.pt`
    - YOLOv8m预训练权重：`task2/yolov8m.pt`
