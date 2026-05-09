@@ -34,6 +34,11 @@ hw2/
 │   ├── task2_4_analysis.py         # 跟踪结果自动分析与可视化
 │   ├── video.mp4                   # 待处理测试视频（为满足GitHub上传要求已进行适当压缩）
 │   ├── visdrone.yaml               # 自动生成：YOLO数据集配置
+│   ├── train_output/               # 自动生成：所有模型训练结果
+│   │   ├── yolo11n/                 # YOLO11n模型训练输出
+│   │   ├── yolo26n/                 # YOLO26n模型训练输出
+│   │   ├── yolov8m/                 # 原版YOLOv8m模型训练输出
+│   │   └── 优化版yolov8m/           # 优化版YOLOv8m模型训练输出（本次实验最优）
 │   ├── tracking_output/            # 自动生成：跟踪与计数结果
 │   │   ├── tracking_result.mp4     # 标注后的结果视频（为满足GitHub上传要求已进行适当压缩）
 │   │   └── tracking_log.csv        # 跟踪日志文件
