@@ -1,0 +1,8 @@
+batch_size: 64
+epochs: 20
+base_lr: 0.0005
+head_lr: 0.005
+weight_decay: 0.0005
+momentum: 0.9
+use_pretrained: true
+use_attention: false

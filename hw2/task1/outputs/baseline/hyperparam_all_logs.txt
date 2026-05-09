@@ -1,0 +1,292 @@
+================================================================================
+所有超参组合的完整日志
+================================================================================
+
+--- 组合 1 ---
+  Batch Size: 32
+  Base LR: 1e-05
+  Head LR: 0.0001
+  Weight Decay: 0.0001
+  Best Val Acc: 0.4389
+  Test Acc: 0.4274
+
+--- 组合 2 ---
+  Batch Size: 32
+  Base LR: 1e-05
+  Head LR: 0.0001
+  Weight Decay: 0.0005
+  Best Val Acc: 0.4810
+  Test Acc: 0.4952
+
+--- 组合 3 ---
+  Batch Size: 32
+  Base LR: 1e-05
+  Head LR: 0.001
+  Weight Decay: 0.0001
+  Best Val Acc: 0.8832
+  Test Acc: 0.8463
+
+--- 组合 4 ---
+  Batch Size: 32
+  Base LR: 1e-05
+  Head LR: 0.001
+  Weight Decay: 0.0005
+  Best Val Acc: 0.8940
+  Test Acc: 0.8487
+
+--- 组合 5 ---
+  Batch Size: 32
+  Base LR: 1e-05
+  Head LR: 0.005
+  Weight Decay: 0.0001
+  Best Val Acc: 0.9117
+  Test Acc: 0.8708
+
+--- 组合 6 ---
+  Batch Size: 32
+  Base LR: 1e-05
+  Head LR: 0.005
+  Weight Decay: 0.0005
+  Best Val Acc: 0.9049
+  Test Acc: 0.8667
+
+--- 组合 7 ---
+  Batch Size: 32
+  Base LR: 0.0001
+  Head LR: 0.0001
+  Weight Decay: 0.0001
+  Best Val Acc: 0.5027
+  Test Acc: 0.5075
+
+--- 组合 8 ---
+  Batch Size: 32
+  Base LR: 0.0001
+  Head LR: 0.0001
+  Weight Decay: 0.0005
+  Best Val Acc: 0.5109
+  Test Acc: 0.4843
+
+--- 组合 9 ---
+  Batch Size: 32
+  Base LR: 0.0001
+  Head LR: 0.001
+  Weight Decay: 0.0001
+  Best Val Acc: 0.8927
+  Test Acc: 0.8438
+
+--- 组合 10 ---
+  Batch Size: 32
+  Base LR: 0.0001
+  Head LR: 0.001
+  Weight Decay: 0.0005
+  Best Val Acc: 0.8832
+  Test Acc: 0.8536
+
+--- 组合 11 ---
+  Batch Size: 32
+  Base LR: 0.0001
+  Head LR: 0.005
+  Weight Decay: 0.0001
+  Best Val Acc: 0.9076
+  Test Acc: 0.8746
+
+--- 组合 12 ---
+  Batch Size: 32
+  Base LR: 0.0001
+  Head LR: 0.005
+  Weight Decay: 0.0005
+  Best Val Acc: 0.9022
+  Test Acc: 0.8774
+
+--- 组合 13 ---
+  Batch Size: 32
+  Base LR: 0.0005
+  Head LR: 0.0001
+  Weight Decay: 0.0001
+  Best Val Acc: 0.5856
+  Test Acc: 0.5778
+
+--- 组合 14 ---
+  Batch Size: 32
+  Base LR: 0.0005
+  Head LR: 0.0001
+  Weight Decay: 0.0005
+  Best Val Acc: 0.5883
+  Test Acc: 0.5822
+
+--- 组合 15 ---
+  Batch Size: 32
+  Base LR: 0.0005
+  Head LR: 0.001
+  Weight Decay: 0.0001
+  Best Val Acc: 0.8859
+  Test Acc: 0.8643
+
+--- 组合 16 ---
+  Batch Size: 32
+  Base LR: 0.0005
+  Head LR: 0.001
+  Weight Decay: 0.0005
+  Best Val Acc: 0.8899
+  Test Acc: 0.8629
+
+--- 组合 17 ---
+  Batch Size: 32
+  Base LR: 0.0005
+  Head LR: 0.005
+  Weight Decay: 0.0001
+  Best Val Acc: 0.9130
+  Test Acc: 0.8768
+
+--- 组合 18 ---
+  Batch Size: 32
+  Base LR: 0.0005
+  Head LR: 0.005
+  Weight Decay: 0.0005
+  Best Val Acc: 0.9103
+  Test Acc: 0.8798
+
+--- 组合 19 ---
+  Batch Size: 64
+  Base LR: 1e-05
+  Head LR: 0.0001
+  Weight Decay: 0.0001
+  Best Val Acc: 0.2038
+  Test Acc: 0.2101
+
+--- 组合 20 ---
+  Batch Size: 64
+  Base LR: 1e-05
+  Head LR: 0.0001
+  Weight Decay: 0.0005
+  Best Val Acc: 0.2296
+  Test Acc: 0.2202
+
+--- 组合 21 ---
+  Batch Size: 64
+  Base LR: 1e-05
+  Head LR: 0.001
+  Weight Decay: 0.0001
+  Best Val Acc: 0.8587
+  Test Acc: 0.8217
+
+--- 组合 22 ---
+  Batch Size: 64
+  Base LR: 1e-05
+  Head LR: 0.001
+  Weight Decay: 0.0005
+  Best Val Acc: 0.8628
+  Test Acc: 0.8231
+
+--- 组合 23 ---
+  Batch Size: 64
+  Base LR: 1e-05
+  Head LR: 0.005
+  Weight Decay: 0.0001
+  Best Val Acc: 0.9212
+  Test Acc: 0.8673
+
+--- 组合 24 ---
+  Batch Size: 64
+  Base LR: 1e-05
+  Head LR: 0.005
+  Weight Decay: 0.0005
+  Best Val Acc: 0.9090
+  Test Acc: 0.8675
+
+--- 组合 25 ---
+  Batch Size: 64
+  Base LR: 0.0001
+  Head LR: 0.0001
+  Weight Decay: 0.0001
+  Best Val Acc: 0.2283
+  Test Acc: 0.2328
+
+--- 组合 26 ---
+  Batch Size: 64
+  Base LR: 0.0001
+  Head LR: 0.0001
+  Weight Decay: 0.0005
+  Best Val Acc: 0.2609
+  Test Acc: 0.2513
+
+--- 组合 27 ---
+  Batch Size: 64
+  Base LR: 0.0001
+  Head LR: 0.001
+  Weight Decay: 0.0001
+  Best Val Acc: 0.8696
+  Test Acc: 0.8207
+
+--- 组合 28 ---
+  Batch Size: 64
+  Base LR: 0.0001
+  Head LR: 0.001
+  Weight Decay: 0.0005
+  Best Val Acc: 0.8682
+  Test Acc: 0.8231
+
+--- 组合 29 ---
+  Batch Size: 64
+  Base LR: 0.0001
+  Head LR: 0.005
+  Weight Decay: 0.0001
+  Best Val Acc: 0.9171
+  Test Acc: 0.8651
+
+--- 组合 30 ---
+  Batch Size: 64
+  Base LR: 0.0001
+  Head LR: 0.005
+  Weight Decay: 0.0005
+  Best Val Acc: 0.9130
+  Test Acc: 0.8694
+
+--- 组合 31 ---
+  Batch Size: 64
+  Base LR: 0.0005
+  Head LR: 0.0001
+  Weight Decay: 0.0001
+  Best Val Acc: 0.3492
+  Test Acc: 0.3625
+
+--- 组合 32 ---
+  Batch Size: 64
+  Base LR: 0.0005
+  Head LR: 0.0001
+  Weight Decay: 0.0005
+  Best Val Acc: 0.3546
+  Test Acc: 0.3148
+
+--- 组合 33 ---
+  Batch Size: 64
+  Base LR: 0.0005
+  Head LR: 0.001
+  Weight Decay: 0.0001
+  Best Val Acc: 0.8628
+  Test Acc: 0.8362
+
+--- 组合 34 ---
+  Batch Size: 64
+  Base LR: 0.0005
+  Head LR: 0.001
+  Weight Decay: 0.0005
+  Best Val Acc: 0.8682
+  Test Acc: 0.8335
+
+--- 组合 35 ---
+  Batch Size: 64
+  Base LR: 0.0005
+  Head LR: 0.005
+  Weight Decay: 0.0001
+  Best Val Acc: 0.9090
+  Test Acc: 0.8757
+
+--- 组合 36 ---
+  Batch Size: 64
+  Base LR: 0.0005
+  Head LR: 0.005
+  Weight Decay: 0.0005
+  Best Val Acc: 0.9266
+  Test Acc: 0.8694
+
